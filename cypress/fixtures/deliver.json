@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Papito Pizzaiolo",
+        "cpf": "12345678900",
+        "email": "pizzasdopapito@dominio.extensao",
+        "whatsapp": "21999999999",
+        "address": {
+            "cep": "20765171",
+            "street": "Estrada Adhemar Bebiano",
+            "number": "4221",
+            "complemento": "casa 6",
+            "district": "Engenho da Rainha",
+            "city_uf": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "nome": "Luciel da Massa",
+        "cpf": "123456789AA",
+        "email": "lucielbonitin@gmail.com",
+        "whatsapp": "21999999999",
+        "address": {
+            "cep": "20765171",
+            "street": "Estrada Adhemar Bebiano",
+            "number": "4221",
+            "complemento": "casa 6",
+            "district": "Engenho da Rainha",
+            "city_uf": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    },
+    "email_inv": {
+        "nome": "Claudinho Pagodeiro",
+        "cpf": "12345678900",
+        "email": "claudsamba.com.br",
+        "whatsapp": "21999999999",
+        "address": {
+            "cep": "20765171",
+            "street": "Estrada Adhemar Bebiano",
+            "number": "4221",
+            "complemento": "casa 6",
+            "district": "Engenho da Rainha",
+            "city_uf": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg" 
+    }
+}
